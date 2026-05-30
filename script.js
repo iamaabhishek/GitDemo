@@ -1,9 +1,7 @@
+const name = prompt("Enter your name :- ")
 
-
-let name = prompt("Enter you name :- ");
 
 alert(`Welcome ${name}`)
-
 
 
 
